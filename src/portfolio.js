@@ -158,7 +158,7 @@ const educationInfo = {
       schoolName: "Univerisitiy of Malaya (UM)",
       subHeader: "Bachelor of Computer Science'",
       duration: "Sep 2021 - Aug 2025",
-      desc: "Studying Computer Science at Univerisitiy of Malaya (UM) with a focus on full stack development and integrating AI systems and models into softwares.",
+      desc: "Studying Computer Science at University of Malaya (UM) with a focus on full stack development and integrating AI systems and models into websites.",
       descBullets: [
         "Focus on Full Stack development and integrating AI systems and models",
         "Strong foundation in algorithms, data structures, and distributed systems",
@@ -200,11 +200,13 @@ const workExperiences = {
       company: "Universitiy of Malaya",
       companylogo: require("./assets/images/um_logo.png"),
       date: "Mar 2025 – Jun 2025",
-      desc: "Contributed to the Earth System Foundation Model (ESFM) research project at ETH Zürich, focusing on data preprocessing and improving the quality of large-scale Earth system datasets used in machine learning workflows.",
+      desc: "Worked on developing research-driven software solutions, integrating AI capabilities into web applications, and building intelligent systems to enhance user experiences. Collaborated with researchers and developers to transform innovative ideas into practical, scalable, and reliable digital solutions while strengthening my expertise in software engineering and AI technologies.",
       descBullets: [
-        "Implemented data processing logic for handling missing and incomplete values in large-scale geospatial datasets",
-        "Translated research requirements into structured and maintainable Python code",
-        "Improved reliability and consistency of data pipelines for ML model training"
+        "Built REST APIs (10+ endpoints) for dataset retrieval, filtering, and analytics processing",
+        "Designed and implemented a dashboard handling 1,000+ dataset records for visualization and exploration",
+        "Integrated MongoDB/PostgreSQL with optimized queries, reducing average data fetch time by ~30%",
+        "Collaborated with a team of 3–5 members, following weekly sprint cycles and code reviews",
+        "Tested and debugged system modules, improving stability across 15+ core features"
       ]
     }
   ]
