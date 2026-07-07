@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "9inpachi",
+      "name": "Hansueli Schmid",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/36920441?v=4",
+      "profile": "http://facebook.com/9inpachi",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "developerPortfolio",
+  "projectOwner": "Hansueli Schmid",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
